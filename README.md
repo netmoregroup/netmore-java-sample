@@ -1,4 +1,4 @@
-# <img src="https://avatars.githubusercontent.com/u/93947921?s=200&" width="32"/> Netmore Cloud Control sample application.
+# <img src="https://avatars.githubusercontent.com/u/93947921?s=200&" width="32"/> Netmore Connect sample application.
 
 This sample application is written in java, for payload information 
 see the javascript sample
